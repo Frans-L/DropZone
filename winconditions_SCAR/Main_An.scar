@@ -1,0 +1,20 @@
+-- Frans L 2015
+
+import("ScarUtil.scar")
+import("Fatalities/Fatalities.scar")
+import("WinConditions/victorypointplusannihilate.scar")
+import("winconditions/Main.scar") -- note lowercase
+
+function OnInit()
+	g_modeAnnihilation = true
+	g_findingDropZoneBonusTime = 0
+	g_abilityBonusTime = 0
+	g_alarmBonusTime = 0
+	g_dropZoneIntervalBonusTime = 0
+	g_popCapBonus = 25
+	g_aiBonusMExtra = 30
+	g_introHeadBonus = ""
+	OnGameSetupINI()
+end
+
+Scar_AddInit(OnInit)

@@ -1,0 +1,51 @@
+[b]DropZone is an intense and brutal game mode! [/b]
+
+[b]Watch the trailer:[/b]  [url=http://youtu.be/vOWOitmG9h8]http://youtu.be/vOWOitmG9h8[/url]
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[b]Description:[/b]
+
+Dropzone is a landing area for paradrops. It will be selected every few minutes. Multiple planes will drop crates which contain some equipment, team weapons, upgrades or even vehicles. Pick them up before your enemy does!
+
+Paradrops make the game more intense and guarantee constant action. At the start paradrops will not contain any game changing equipment. The longer the match goes, the better weapons will be. In addition, every player has three emergency abilities which makes breaking the enemy's defensive lines easier. The recharge time is long, so the abilities have to be used wisely. 
+
+You can play this game mode with friends, randoms, and CPU. This game mode works also in every map.
+
+Have fun!
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[b]Patch Notes:[/b]
+
+- Bux fixes
+
+- DropZone Extreme added
+--> More and better paradrops
+--> Boosted AI
+--> Constant action!
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[b]Tip:[/b]
+
+Playing with CPU is exciting, but with real players it is much more exciting. If you want to find players in your lobby quickly, the trick is to add temporary to your Steam alias  "(DropZone)" text. When players are looking for lobbies in the custom game list, they will immediately see where to join. Changing Steam alias takes round ten seconds: Steam -> Settings -> Friends -> Change alias.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[b]How to install / play this game mode:[/b]
+
+1. Click the "Subscribe" button.
+2. Launch Company of Heroes 2
+3. Create Custom Game
+4. Click Options -> Win Condition -> DropZone 
+(The selection list isn't in alphabetical order, so you may have to scroll down.)
+5. Now you are ready to start the game!
+
+------------------------------------------------------------------------------------------------------------------------------
+
+If you enjoy the game mode, remember to leave some feedback :)
+
+- Frans L
